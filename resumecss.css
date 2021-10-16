@@ -1,0 +1,62 @@
+#Hobbies
+{
+	background-color: aquamarine;
+}
+
+
+#img
+{
+	position: absolute;
+	right: 300px;
+	top: -10px;
+	margin-top: 50px;
+	margin-left: 900px;
+}
+
+
+#Div
+{	
+	margin-top: 100px;
+	margin-left: 200px;
+	margin-right: 200px;
+}
+
+
+#table1
+{	background-color: lightgray;
+	margin: initial;
+	table-layout: auto;
+	border: thick;
+}
+#table2
+{
+	background-color: lightgray;
+	margin: initial;
+	table-layout: auto;
+	border: black;
+}
+
+#table3
+{
+	background-color: lightgray;
+	margin: initial;
+	table-layout: auto;
+	border: solid;
+}
+#Projects
+{
+	background-color: aquamarine;
+}
+
+#skill
+{
+	background-color: aquamarine;
+}
+#ED
+{
+	background-color: aquamarine;
+}
+#Intern
+{
+	background-color: aquamarine;
+}
